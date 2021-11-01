@@ -39,4 +39,40 @@ h1{
 .female-section{
     background-image:url(images/shapes/7.png);
 }
+.added-recipies{
+    text-align:center;
+}
+.box-shadow{
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+.box-shadow img{
+    width:100%;
+}
+.first-shadow{
+    margin-right:5% ;
+    box-shadow:10px 10px 10px 10px grey;
+    border-radius:5%;
+    padding: 10px 10px 10px 10px;
+}
+.another-flex{
+    display: flex;
+    text-align: center;
+}
+.deign-one{
 
+    margin-left: 11%;
+    font-size: 30px;
+    line-height: 15px;
+}
+.food-color{
+    color: orange;
+}
+.footer-edit{
+    text-align: center;
+    background-color: green;
+    color: blanchedalmond;
+    padding-bottom: 5%;
+    padding-top: 2%;
+}
